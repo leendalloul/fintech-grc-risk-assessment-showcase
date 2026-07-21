@@ -40,7 +40,7 @@ The project evaluates a fictional digital-payment and e-wallet provider through 
 - Establish evidence-based compliance tracking
 - Preserve logs and create approved communication templates
 
-See [docs/assessment.md](docs/assessment.md) for the detailed public assessment and [docs/incident-response.md](docs/incident-response.md) for the response plan.
+See the [complete risk and compliance assessment](docs/assessment.md), [complete incident-response plan](docs/incident-response.md), and [references](docs/references.md).
 
 ## Academic Context
 
