@@ -50,8 +50,6 @@ Developed for CS 3178, Governance, Risk & Compliance in Cybersecurity, under the
 - Leen Dalloul
 - Raghad Shamma
 
-Student identification numbers are intentionally excluded.
-
 ## Repository Boundary
 
 This repository does not contain private organizational information, credentials, source code, customer data, or evidence from a real fintech company.
