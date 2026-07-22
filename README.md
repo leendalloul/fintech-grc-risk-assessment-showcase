@@ -2,8 +2,6 @@
 
 A documentation-only showcase of an academic Governance, Risk, and Compliance assessment for **NoorPay**, a fictional Saudi fintech scenario.
 
-> This repository is an academic portfolio adaptation. It is not legal advice, a regulatory certification, or an assessment of a real organization.
-
 ## Project Overview
 
 The project evaluates a fictional digital-payment and e-wallet provider through three connected GRC activities:
